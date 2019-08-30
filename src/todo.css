@@ -1,0 +1,13 @@
+.complete{
+    color:lightgrey;
+    text-decoration: line-through;
+}
+.Todo{
+    display:flex;
+    margin:0 -3rem 4px;
+    padding:1.1rem 3rem;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #877a80;
+
+}
